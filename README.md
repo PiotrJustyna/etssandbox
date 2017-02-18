@@ -1,9 +1,15 @@
-etssandbox
-=====
+# etssandbox
 
 ETS Sandbox.
 
-Build
------
+## Build
 
-    $ rebar3 compile
+```
+$ rebar3 compile
+```
+
+## Run
+
+```
+$ ./start.sh
+```
